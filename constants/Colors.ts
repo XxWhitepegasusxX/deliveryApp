@@ -22,4 +22,6 @@ export default {
   mediumDark: '#424242',
   medium: '#9F9AA1',
   green: '#437919',
+  white: '#FFFFFF',
+  black: '#000000',
 };
